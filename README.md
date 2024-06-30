@@ -9,3 +9,5 @@ Variables
 Target: The number you want (or higher)\
 Count: How many of the target numbers you want\
 Least: The lowest number a number in the set can be\
+\
+Have fun, and know that with great power comes great responsibility.
