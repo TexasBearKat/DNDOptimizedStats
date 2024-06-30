@@ -1,4 +1,4 @@
-import function as f
+import functions as f
 import random as r
 # Above: import packages  Below: variable init
 print("For info: read the README.md")
