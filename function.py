@@ -10,5 +10,4 @@ def getStat():
 def getStatBlock():
   return (getStat(), getStat(), getStat(), getStat(), getStat(), getStat())
 
-print(getStatBlock)
-  
+print(getStatBlock())
