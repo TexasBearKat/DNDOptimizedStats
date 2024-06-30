@@ -10,5 +10,6 @@ Target: The number you want (or higher)\
 Count: How many of the target numbers you want\
 Least: The lowest number a number in the set can be\
 Warning: If you put below three for the target it breaks\
+Also the higher numbers you put the more iterations it has to go through\
 \
 Have fun, and know that with great power comes great responsibility.
